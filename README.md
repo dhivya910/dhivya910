@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhivya910&show_icons=true&locale=en&layout=compact&theme=dark" alt="dhivya910" /></p>
 
-![Dhivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivya910&show_icons=true&theme=dark)
+![Dhivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivya910&show_icons=true&theme=tokyonight)
 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhivya910&show_icons=true&locale=en" alt="dhivya910" /></p>
