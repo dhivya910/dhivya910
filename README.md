@@ -22,6 +22,9 @@
 
 ![Dhivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivya910&show_icons=true&theme=tokyonight)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhivya910&repo=github-readme-stats)](https://github.com/dhivya910/github-readme-stats)
+
+
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhivya910&show_icons=true&locale=en" alt="dhivya910" /></p>
 
