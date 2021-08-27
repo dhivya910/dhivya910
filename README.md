@@ -24,7 +24,7 @@
 
 <!-- [Dhivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivya910&show_icons=true&theme=dark) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhivya910&show_icons=true&theme=dark" alt="dhivya910" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhivya910&show_icons=true&theme=dark" alt="dhivya910" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhivya910&show_icons=true&theme=dark" alt="dhivya910" /></p> 
 
