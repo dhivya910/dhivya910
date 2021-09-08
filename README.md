@@ -1,5 +1,5 @@
 <!--### Howdy! 👋-->
-<h1 align="center">Howdy 👋, It's Dhivya</h1>
+<h1 align="center">Howdy 👋, Dhivya here!</h1>
 <h3 align="center">Learner | Developer</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhivya910&label=Profile%20views&color=0e75b6&style=flat" alt="dhivya910" /> </p>
